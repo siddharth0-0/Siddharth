@@ -12,8 +12,9 @@
 <hr>
 
 <h3 align="left">Projects:</h3>
-* ⏳ [Countdown App](https://tender-mccarthy-ba980c.netlify.app)
-* 🧘🧘‍ [Fitguide](https://pensive-leavitt-0fd945.netlify.app/)
+- ⏳ A App for creating new or view previously created [Countdown](https://tender-mccarthy-ba980c.netlify.app)
+
+- 🧘🧘‍ A App which guides you through different exercises through video format[Fitguide](https://pensive-leavitt-0fd945.netlify.app/)
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
