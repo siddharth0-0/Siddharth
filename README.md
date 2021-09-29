@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ResumeBuilder](https://github.com/siddharth0-0/resume-build)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **agrawalsid05@gmail.com**
 
